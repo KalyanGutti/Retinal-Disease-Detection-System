@@ -177,6 +177,8 @@ EyeDisease/
 └── README.md
 ```
 
+![image alt](https://github.com/KalyanGutti/Retinal-Disease-Detection-System/blob/720119813b954ab758e143b40134db963a03a6f7/Git.png)
+
 ## 🔧 Installation & Setup
 
 ### 1️⃣ Clone the Repository
@@ -242,3 +244,4 @@ AI/ML Developer • CSE Student
 
 [GitHub](https://github.com/KalyanGutti)
 [LinkedIn](https://www.linkedin.com/in/kalyan-gutti/)
+
