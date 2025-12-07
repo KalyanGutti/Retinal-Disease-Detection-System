@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+tensorflow==2.12.0
+numpy
+opencv-python
+pillow
+
+python-multipart
+python-jose[cryptography]
+passlib[argon2]
+
+sqlmodel
+sqlalchemy
+asyncpg
+
+python-dotenv
